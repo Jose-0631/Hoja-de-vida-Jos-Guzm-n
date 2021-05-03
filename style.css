@@ -1,0 +1,51 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background: url('fondo.jpg')no-repeat;
+  background-size: cover;
+}
+
+.box{
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 4x;
+  padding: 20px;
+  background: rgba(0,0,0, .4);
+  color: white;
+  text-align: center;
+  border-radius: 20%
+}
+
+.box-img{
+  border-radius: 50%;
+}
+.box h1{
+  font-size: 40px;
+  font-family: 'libre Baskerville', serif;
+  text-align: center;
+  letter-spacing: 4px;
+  font-weight: 100;
+  margin-bottom: 20px;
+}
+
+.box h2{
+  font-family: 'libre Baskerville', serif;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+}
+
+
+h1{
+  font-family:'Orelega One', cursiva;
+  text-align: center;
+  letter-spacing: 4px;
+  font-weight: 100;
+  margin-botton: 20px;
+}
